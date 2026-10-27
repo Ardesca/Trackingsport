@@ -1,0 +1,281 @@
+{
+  "exercises": [
+    {
+      "id": "ex1",
+      "name": "Squat",
+      "muscle": "Jambes",
+      "equipment": "Barre",
+      "notes": "Descendre sous le parallèle, dos gainé."
+    },
+    {
+      "id": "ex2",
+      "name": "Développé couché",
+      "muscle": "Pectoraux",
+      "equipment": "Barre",
+      "notes": ""
+    },
+    {
+      "id": "ex3",
+      "name": "Soulevé de terre",
+      "muscle": "Dos",
+      "equipment": "Barre",
+      "notes": "Dos neutre, barre près des jambes."
+    },
+    {
+      "id": "ex4",
+      "name": "Tractions",
+      "muscle": "Dos",
+      "equipment": "Poids du corps",
+      "notes": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "pr1",
+      "name": "Rituel de force - exemple",
+      "weeks": [
+        {
+          "id": "wk1",
+          "sessions": [
+            {
+              "id": "sehhr8x7b",
+              "name": "PUSH",
+              "day": "Mercredi",
+              "exercises": [
+                {
+                  "id": "bl28u00xd",
+                  "exerciseId": "ex2",
+                  "sets": [
+                    {
+                      "id": "sti9qtar5",
+                      "type": "echauffement",
+                      "reps": 5,
+                      "kg": 60,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st3jngjz0",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 95,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st5763ff8",
+                      "type": "hypertrophie",
+                      "reps": 12,
+                      "kg": 75,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "wk25",
+          "sessions": [
+            {
+              "id": "se26",
+              "name": "Jambes et poussée",
+              "day": "Lundi",
+              "exercises": [
+                {
+                  "id": "bl27",
+                  "exerciseId": "ex1",
+                  "sets": [
+                    {
+                      "id": "st28",
+                      "type": "echauffement",
+                      "reps": 10,
+                      "kg": 20,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st29",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 62.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st30",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 62.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st31",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 62.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st32",
+                      "type": "hypertrophie",
+                      "reps": 10,
+                      "kg": 47.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st33",
+                      "type": "hypertrophie",
+                      "reps": 10,
+                      "kg": 47.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    }
+                  ]
+                },
+                {
+                  "id": "bl34",
+                  "exerciseId": "ex2",
+                  "sets": [
+                    {
+                      "id": "st35",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 52.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st36",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 52.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st37",
+                      "type": "force",
+                      "reps": 5,
+                      "kg": 52.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st38",
+                      "type": "hypertrophie",
+                      "reps": 12,
+                      "kg": 37.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st39",
+                      "type": "hypertrophie",
+                      "reps": 12,
+                      "kg": 37.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "se40",
+              "name": "Tirage",
+              "day": "Mercredi",
+              "exercises": [
+                {
+                  "id": "bl41",
+                  "exerciseId": "ex3",
+                  "sets": [
+                    {
+                      "id": "st42",
+                      "type": "force",
+                      "reps": 3,
+                      "kg": 72.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st43",
+                      "type": "force",
+                      "reps": 3,
+                      "kg": 72.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st44",
+                      "type": "force",
+                      "reps": 3,
+                      "kg": 72.5,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    }
+                  ]
+                },
+                {
+                  "id": "bl45",
+                  "exerciseId": "ex4",
+                  "sets": [
+                    {
+                      "id": "st46",
+                      "type": "hypertrophie",
+                      "reps": 8,
+                      "kg": 0,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st47",
+                      "type": "hypertrophie",
+                      "reps": 8,
+                      "kg": 0,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    },
+                    {
+                      "id": "st48",
+                      "type": "hypertrophie",
+                      "reps": 8,
+                      "kg": 0,
+                      "doneReps": null,
+                      "doneKg": null,
+                      "done": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
